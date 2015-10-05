@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://imadethisjustforyou.github.io
+title: imadethisjustforyou
+paginate: 5
